@@ -23,6 +23,7 @@ as well as an opportunity for personal growth.
 6. Figma
 
 ## My Projects
+
 1. [Portfolio](https://rolling-scopes-school.github.io/askonapk1997-JSFEPRESCHOOL/portfolio/)
 2. [Audio-player](https://rolling-scopes-school.github.io/askonapk1997-JSFEPRESCHOOL/audio-player/)
 3. [Random-game](https://rolling-scopes-school.github.io/askonapk1997-JSFEPRESCHOOL/random-game/)
