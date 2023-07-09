@@ -372,18 +372,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #js-skill {
-    width: 65%;
-}
-
-#C-skill {
-    width: 45%;
-}
-
-#Git-skill {
     width: 75%;
 }
 
+#C-skill {
+    width: 75%;
+}
+
+#Git-skill {
+    width: 85%;
+}
+
 #Figma-skill {
+    width: 75%;
+}
+#TS-skill {
+    width: 45%;
+}
+#SQL-skill {
     width: 65%;
 }
 
